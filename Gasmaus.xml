@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+	<App Startexe="SF_Gasmausdatenbank.exe">
+		<AppName>Gasmausdatenbank</AppName>
+		<Form>Gasmausdatenbank.accdb</Form>
+		<Quellpfad>C:\Users\Doerte.Boeke\Skill Networks Solutions Factory GmbH\EWE - Intern - Intern\61.397 EWE Netz GmbH - Gasmausdatenbank\In Bearbeitung\</Quellpfad>
+		<Zielpfad>\AppData\Local\UserAccessApps\</Zielpfad>
+		<Workgroup></Workgroup>
+		<UserProfile>True</UserProfile>
+		<Runtime>True</Runtime>
+	</App>
+		
+	<Anhang>
+		<IconQuellDatei>C:\Users\Doerte.Boeke\Skill Networks Solutions Factory GmbH\EWE - Intern - Intern\61.397 EWE Netz GmbH - Gasmausdatenbank\In Bearbeitung\SF_Gasmausdatenbank.ico</IconQuellDatei>
+		<IconZielDatei>\AppData\Local\UserAccessApps\Ico\SF_Gasmausdatenbank.ico</IconZielDatei>
+		<UserProfile>True</UserProfile>
+	</Anhang>
+
+	<Anhang>
+		<ShortcutQuellDatei>C:\Users\Doerte.Boeke\Skill Networks Solutions Factory GmbH\EWE - Intern - Intern\61.397 EWE Netz GmbH - Gasmausdatenbank\In Bearbeitung\SF_Gasmausdatenbank.lnk</ShortcutQuellDatei>
+		<ShortcutZielDatei>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\SF_Gasmausdatenbank.lnk</ShortcutZielDatei>
+		<UserProfile>True</UserProfile>
+	</Anhang>
+	
+</DocumentElement>
