@@ -24,14 +24,14 @@
 	
 </DocumentElement>
 <!-------jetzt folgt der Code für die Pumendatenbank----->
-?xml version="1.0" standalone="yes"?>
+<?xml version="1.0" standalone="yes"?>
 <DocumentElement>
 	<App Startexe="SF_form045.exe">
 		<AppName>form045</AppName>
 		<Form>form045.mdb</Form>
 		<Quellpfad>C:\Users\doerte.boeke\Skill Networks Solutions Factory GmbH\EWE - Intern - Intern\61.378 EWE Wasser GmbH - Pumpwerkdatenbank\In Bearbeitung\</Quellpfad>
 		<Zielpfad>\AppData\Local\UserAccessApps\</Zielpfad>
-		<Workgroup></Workgroup>
+		<Workgroup>/wrkgrp "C:\Users\doerte.boeke\Skill Networks Solutions Factory GmbH\EWE - Intern - Intern\61.378 EWE Wasser GmbH - Pumpwerkdatenbank\In Bearbeitung\formsystem.mdw" /USER HUNTE OLDENBURG</Workgroup>
 		<UserProfile>True</UserProfile>
 		<Runtime>True</Runtime>
 	</App>
