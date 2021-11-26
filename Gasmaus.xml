@@ -23,4 +23,29 @@
 	</Anhang>
 	
 </DocumentElement>
+<!-------jetzt folgt der Code für die Pumendatenbank----->
+?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+	<App Startexe="SF_form045.exe">
+		<AppName>form045</AppName>
+		<Form>form045.mdb</Form>
+		<Quellpfad>C:\Users\doerte.boeke\Skill Networks Solutions Factory GmbH\EWE - Intern - Intern\61.378 EWE Wasser GmbH - Pumpwerkdatenbank\In Bearbeitung\</Quellpfad>
+		<Zielpfad>\AppData\Local\UserAccessApps\</Zielpfad>
+		<Workgroup></Workgroup>
+		<UserProfile>True</UserProfile>
+		<Runtime>True</Runtime>
+	</App>
+		
+	<Anhang>
+		<IconQuellDatei>C:\Users\doerte.boeke\Skill Networks Solutions Factory GmbH\EWE - Intern - Intern\61.378 EWE Wasser GmbH - Pumpwerkdatenbank\In Bearbeitung\SF_Pumpendatenbank.ico</IconQuellDatei>
+		<IconZielDatei>\AppData\Local\UserAccessApps\Ico\SF_Gasmausdatenbank.ico</IconZielDatei>
+		<UserProfile>True</UserProfile>
+	</Anhang>
 
+	<Anhang>
+		<ShortcutQuellDatei>C:\Users\doerte.boeke\Skill Networks Solutions Factory GmbH\EWE - Intern - Intern\61.378 EWE Wasser GmbH - Pumpwerkdatenbank\In Bearbeitung\SF_Pumpendatenbank.lnk</ShortcutQuellDatei>
+		<ShortcutZielDatei>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\SF_GPumpendatenbank.lnk</ShortcutZielDatei>
+		<UserProfile>True</UserProfile>
+	</Anhang>
+	
+</DocumentElement>
