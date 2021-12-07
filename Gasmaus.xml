@@ -24,7 +24,7 @@
 	
 </DocumentElement>
 
-<!-------jetzt folgt der Code für die Pumendatenbank----->
+<!---Dies ist ein Kommentar----Jetzt folgt der Code für die Pumendatenbank----->
 
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
